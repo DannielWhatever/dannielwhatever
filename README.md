@@ -3,7 +3,7 @@
 
 ![gif](https://web.archive.org/web/20090821185927/http://geocities.com/SiliconValley/Peaks/8552/reviews/images/computer.gif)
 
-Slow and steady wins the race.    :turtle:
+"Slow and steady wins the race."    :turtle:
 
 
 
