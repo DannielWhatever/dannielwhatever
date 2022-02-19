@@ -1,12 +1,11 @@
 ### Hi dear, welcome to my github :octocat:
 
 
+![](https://komarev.com/ghpvc/?username=DannielWhatever&color=green)
+
 ![gif](https://web.archive.org/web/20090821185927/http://geocities.com/SiliconValley/Peaks/8552/reviews/images/computer.gif)
 
 "Slow and steady wins the race."    :turtle:
-
-
-![](https://komarev.com/ghpvc/?username=DannielWhatever&color=green)
 
 <!--
 **DannielWhatever/dannielwhatever** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
