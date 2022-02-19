@@ -6,6 +6,7 @@
 "Slow and steady wins the race."    :turtle:
 
 
+![](https://komarev.com/ghpvc/?username=DannielWhatever&color=green)
 
 <!--
 **DannielWhatever/dannielwhatever** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
